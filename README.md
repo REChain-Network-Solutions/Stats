@@ -1,68 +1,56 @@
-# REChain ® Stats
+# 📊 REChain Stats
 
-**REChain ® Stats** is a blockchain-native stats and analytics tool used to monitor the decentralized REChain ecosystem. It covers everything from on-chain activity and node performance to DAO and proposal metrics.
+Welcome to **REChain Stats**, a statistical analytics module for REChain Network Solutions. This repo is designed to gather, compute, and visualize key metrics across various REChain protocols and services.
 
-## 🚀 Quickstart
+## 🔍 Features
+
+- Real-time analytics from DeFi, DAO, and prediction modules
+- Historical data snapshots and trend analysis
+- Oracle-based feeds and customizable data pipelines
+- Visual dashboards for governance and performance tracking
+
+## 📁 Directory Structure
+
+```
+Stats/
+├── data/             # Raw and processed data sets
+├── scripts/          # Scripts for fetching, cleaning, and analyzing data
+├── visualizations/   # Graphs and visual dashboards
+├── docs/             # Documentation files
+└── README.md
+```
+
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/REChain-Network-Solutions/Stats.git
 cd Stats
-npm install
-npm start
 ```
 
-Or run with Rust if using backend in Rust.
+Install Python dependencies:
 
-## 📡 API
+```bash
+pip install -r requirements.txt
+```
 
-All metrics are available through the RESTful API.
+## 📈 Running Stats Pipelines
 
-## 📊 Dashboard
+To run the basic data update and analytics pipeline:
 
-Visual dashboards available under `/dashboard`.
+```bash
+python scripts/run_stats.py
+```
 
-## 🛠 Stack
+## 🧪 Testing
 
-- Node.js / Rust (backend)
-- React.js or Vue (frontend)
-- MongoDB / PostgreSQL
-- Redis (optional)
+Unit tests are located in `tests/`.
+
+```bash
+pytest
+```
 
 ## 📄 License
 
-MIT License © REChain Network Solutions
-
-# REChainEXChange-stats
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+MIT © REChain Network Solutions
