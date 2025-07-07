@@ -16,7 +16,7 @@
     "ant-design-vue": "^2.2.8",
     "axios": "^0.30.0",
     "core-js": "^3.6.5",
-    "lightweight-charts": "^3.6.1",
+    "lightweight-charts": "^5.0.8",
     "lodash": "^4.17.21",
     "luxon": "^2.5.2",
     "oREChain": "^0.1.17",
