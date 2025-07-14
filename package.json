@@ -13,7 +13,7 @@
     "@ant-design/icons-vue": "^6.0.1",
     "@oREChain/ocore": "^0.2.93",
     "@types/wif": "^2.0.2",
-    "ant-design-vue": "^2.2.8",
+    "ant-design-vue": "^4.2.6",
     "axios": "^0.30.0",
     "core-js": "^3.6.5",
     "lightweight-charts": "^5.0.8",
