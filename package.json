@@ -24,7 +24,7 @@
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0",
-    "wif": "^2.0.6"
+    "wif": "^5.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
