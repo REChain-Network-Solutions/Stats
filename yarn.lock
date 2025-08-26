@@ -1932,10 +1932,10 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-4.5.13.tgz#98646d8bc1e69cf6c6a6cba2fed3eace0356c360"
   integrity sha512-I1S9wZC7iI0Wn8kw8Zh+A2Qkf6s1M6vTGBkx8boXjuzfwEEyEHRxadsVCecZc8Mkpydo0nykj+MyYF96TKFuVA==
 
-"@vue/cli-plugin-vuex@~5.0.8":
-  version "5.0.8"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.8.tgz#0d4cb3020f9102bea9288d750729dde176c66ccd"
-  integrity sha512-HSYWPqrunRE5ZZs8kVwiY6oWcn95qf/OQabwLfprhdpFWAGtLStShjsGED2aDpSSeGAskQETrtR/5h7VqgIlBA==
+"@vue/cli-plugin-vuex@~5.0.9":
+  version "5.0.9"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.9.tgz#29830a46f075c9bb35a00cd37e8c0d133a5c41a8"
+  integrity sha512-AQhgGNFVd4Pu2crvS0a+hRckgrJv07gzOASdbLd3I72wkT43dd01MLRp8IBRRsu92t3MXenW86AZUCbQBz3//A==
 
 "@vue/cli-service@~4.5.0":
   version "4.5.13"
@@ -4120,15 +4120,10 @@ core-js@^2.4.0, core-js@^2.6.5:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
 
-core-js@^3.15.1:
-  version "3.18.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.18.0.tgz#9af3f4a6df9ba3428a3fb1b171f1503b3f40cc49"
-  integrity sha512-WJeQqq6jOYgVgg4NrXKL0KLQhi0CT4ZOCvFL+3CQ5o7I6J8HkT5wd53EadMfqTDp1so/MT1J+w2ujhWcCJtN7w==
-
-core-js@^3.6.5:
-  version "3.17.3"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.17.3.tgz#8e8bd20e91df9951e903cabe91f9af4a0895bc1e"
-  integrity sha512-lyvajs+wd8N1hXfzob1LdOCCHFU4bGMbqqmLn1Q4QlCpDqWPpGf+p0nj+LNrvDDG33j0hZXw2nsvvVpHysxyNw==
+core-js@^3.15.1, core-js@^3.45.0, core-js@^3.6.5:
+  version "3.45.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.45.0.tgz#556c2af44a2d9c73ea7b49504392474a9f7c947e"
+  integrity sha512-c2KZL9lP4DjkN3hk/an4pWn5b5ZefhRJnAc42n6LJ19kSnbeRbdQZE5dSeE2LBol1OwJD3X1BQvFTAsa8ReeDA==
 
 core-util-is@1.0.2:
   version "1.0.2"
