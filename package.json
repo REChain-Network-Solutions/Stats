@@ -36,7 +36,7 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-e2e-cypress": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-router": "~5.0.8",
     "@vue/cli-plugin-typescript": "~4.5.0",
     "@vue/cli-plugin-unit-mocha": "~4.5.0",
     "@vue/cli-plugin-vuex": "~5.0.8",
@@ -50,7 +50,7 @@
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-vue": "^10.3.0",
     "prettier": "^2.2.1",
-    "sass-loader": "^12.1.0",
+    "sass-loader": "^16.0.5",
     "typescript": "~5.9.2"
   }
 }
