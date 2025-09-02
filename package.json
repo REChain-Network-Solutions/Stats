@@ -14,7 +14,7 @@
     "@oREChain/ocore": "^0.2.93",
     "@types/wif": "^2.0.2",
     "ant-design-vue": "^2.2.8",
-    "axios": "^0.30.0",
+    "axios": "^1.11.0",
     "core-js": "^3.45.0",
     "lightweight-charts": "^5.0.8",
     "lodash": "^4.17.21",
