@@ -1629,10 +1629,10 @@
     anymatch "^3.0.0"
     source-map "^0.6.0"
 
-"@types/wif@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@types/wif/-/wif-2.0.2.tgz#5bd845e29406bc7d49acca6d2a6c3230f3b53d3c"
-  integrity sha512-IiIuBeJzlh4LWJ7kVTrX0nwB60OG0vvGTaWC/SgSbVFw7uYUTF6gEuvDZ1goWkeirekJDD58Y8g7NljQh2fNkA==
+"@types/wif@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@types/wif/-/wif-2.0.5.tgz#51a6999e692537bb58c028226457fb7b17b24d67"
+  integrity sha512-addYBlYjDxLfJxDUoyTzICnu0u4snCdGJpICIIFk65zGcdjah3twTJq1Fdy+OdeZSRiof2raFtMqSqF9KeqthQ==
   dependencies:
     "@types/node" "*"
 
