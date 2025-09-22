@@ -46,7 +46,7 @@
     "@vue/eslint-config-typescript": "^14.6.0",
     "@vue/test-utils": "^2.0.0-0",
     "chai": "^6.0.1",
-    "eslint": "^6.7.2",
+    "eslint": "^9.36.0",
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-vue": "^10.3.0",
     "prettier": "^2.2.1",
