@@ -16,7 +16,7 @@
     "ant-design-vue": "^2.2.8",
     "axios": "^1.12.2",
     "core-js": "^3.45.0",
-    "lightweight-charts": "^5.0.8",
+    "lightweight-charts": "^5.0.9",
     "lodash": "^4.17.21",
     "luxon": "^3.7.2",
     "oREChain": "^0.1.17",
@@ -46,11 +46,11 @@
     "@vue/eslint-config-typescript": "^14.6.0",
     "@vue/test-utils": "^2.0.0-0",
     "chai": "^6.2.0",
-    "eslint": "^9.36.0",
+    "eslint": "^9.37.0",
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-vue": "^10.5.0",
     "prettier": "^2.2.1",
     "sass-loader": "^16.0.5",
-    "typescript": "~5.9.2"
+    "typescript": "~5.9.3"
   }
 }
